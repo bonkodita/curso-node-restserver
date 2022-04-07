@@ -1,4 +1,4 @@
-require("dotenv").config();
+girequire("dotenv").config();
 
 const Server = require("./models/server");
 
